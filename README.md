@@ -24,8 +24,9 @@ $ cd python-file-management
 $ pip install -r requirements.txt
 $ python main.py -t '<targetPath>'
 ```
-
-## 3. Screenshots
+## YouTube Video
+[<img src="./images/2.png" width="50%">](https://www.youtube.com/watch?v=E1YD9iPzd3I "Python File Management")
+## Screenshots
 <p align='center'>
     <img align="center" src="./images/2.png" style="margin-bottom: 15px;max-width:30em">
 </p>
