@@ -1,5 +1,5 @@
 <h1 align='center'>Python File Management</h1>
-<p align='center'>Basic File Management using Python.</p>
+<p align='center'>Basic File Management using Python. This project is a very simple one with just a python script to automate the process of moving files to different folders by file type. This script uses os and Shutil python modules.  It works according to your operating system.</p>
 
 <p align='center'>
     <img align="center" src="./images/1.gif" style="max-width:30em">
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 colorama==0.4.4
 ```
 
-## Installation
+## Installation and How to use?
 ```sh
 $ git clone https://github.com/alii76tt/python-file-management
 $ cd python-file-management
